@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Water_Rem</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="wt">Weight</string>
+    <string name="kg">Kilograms</string>
+    <string name="lb">Pounds</string>
+    <string name="ltr">Liters</string>
+    <string name="oz">Ounces</string>
+    <string name="twt">TOTAL DAILY WORKOUT TIME</string>
+    <string name="cal">Calculate</string>
+    <string name="title_activity_result">Result</string>
+    <string name="a">150ml</string>
+    <string name="b">250ml</string>
+    <string name="c">500ml</string>
+    <string name="d">750ml</string>
+    <string name="e">1ltr</string>
+
+    <string-array name="daily_workout">
+    <item>No workout</item>
+    <item>30 Minutes</item>
+    <item>45 Minutes</item>
+    <item>60 Minutes</item>
+</string-array>
+
+    <string name="skip">Skip</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
